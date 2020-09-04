@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">battery_level</string>
+    <string name="battery">Battery</string>
+    <string name="percentageLabel" type="id">%</string>
+</resources>
